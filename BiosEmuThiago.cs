@@ -76,14 +76,8 @@ namespace Bios
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("");
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine(@"           (       )  (            *          (           (        )  (     ");
-            Console.WriteLine(@"        (  )\ ) ( /(  )\ )       (  `         )\ )   (    )\ )  ( /(  )\ )  ");
-            Console.WriteLine(@"      ( )\(()/( )\())(()/(   (   )\))(     ( (()/(   )\  (()/(  )\())(()/(  ");
-            Console.WriteLine(@"      )((_)/(_))(_)\  /(_))  )\ ((_)()\    )\ /(_))(((_)( /(_))((_)\  /(_)) ");
-            Console.WriteLine(@"     ((_)_(_))   ((_)(_))   ((_)(_()((_)_ ((_)_))  )\ _ )(_))_   ((_)(_))   ");
-            Console.WriteLine(@"      | _ )_ _| / _ \/ __|  | __|  \/  | | | | |   (_)_\(_)   \ / _ \| _ \  ");
-            Console.WriteLine(@"      | _ \| | | (_) \__ \  | _|| |\/| | |_| | |__  / _ \ | |) | (_) |   /  ");
-            Console.WriteLine(@"      |___/___| \___/|___/  |___|_|  |_|\___/|____|/_/ \_\|___/ \___/|_|_\  ");
+
+
             Console.WriteLine("");
             Console.WriteLine(@"© 2016 - 2017 SaoDev Corporation Ltd. Todos os direitos reservados ao Thiago Araujo.");
             Console.WriteLine("");

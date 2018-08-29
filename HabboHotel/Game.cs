@@ -77,7 +77,7 @@ namespace Bios.HabboHotel
         internal static bool GameLoopEnabled = true;
         public static int SessionUserRecord;
         internal bool GameLoopActiveExt { get; private set; }
-
+        // Projeto prisma lindo
         public Game()
         {
             Console.WriteLine();
