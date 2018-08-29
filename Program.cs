@@ -32,6 +32,8 @@ namespace Bios
             DeleteMenu(GetSystemMenu(GetConsoleWindow(), false), SC_CLOSE, MF_BYCOMMAND);
 
             XmlConfigurator.Configure();
+// peidei com meu cu
+
 
             Console.ForegroundColor = ConsoleColor.White;
             Console.CursorVisible = false;
