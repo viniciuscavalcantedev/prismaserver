@@ -141,7 +141,7 @@ namespace Bios.HabboHotel
             _badgeManager = new BadgeManager();
             _badgeManager.Init();
 
-            GetHallOfFame.GetInstance().Load();
+           // GetHallOfFame.GetInstance().Load();
 
             _permissionManager = new PermissionManager();
             _permissionManager.Init();
